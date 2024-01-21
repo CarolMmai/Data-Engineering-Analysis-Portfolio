@@ -6,12 +6,12 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 | Technology | Icon | Description |
 |------------|------|-------------|
 | Python     | ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square) | Main programming language for data projects. |
-| Microsoft SQL Server| ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-blue?logo=microsoft-sql-server&logoColor=white&style=plastic) | Relational database management system used for storing, managing, and retrieving data. |
+| Microsoft SQL Server| ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-darkblue?logo=microsoft-sql-server&logoColor=white&style=plastic) | Relational database management system used for storing, managing, and retrieving data. |
 | Power BI   | ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square) | Data Model and Analysis with Power BI. |
 | Postgres   | ![Postgres](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat-square) | Open-source relational database management system. |
 | Github     | ![Github](https://img.shields.io/badge/Platform-GitHub-black?logo=github&style=flat-square) | Collaborative development and version control. |
 | VBScript| ![VBScript](https://img.shields.io/badge/Scripting-Visual_Basic-blue?logo=visual-studio&logoColor=white&style=flat-square) | Scripting tasks on Windows-based systems. |
-| AWS| ![AWS](https://img.shields.io/badge/Cloud-Amazon_Web_Services-orange?logo=amazon-aws&logoColor=white&style=flat-square) | Leading and widely-used cloud computing platform. |
+| Amazon Web Services| ![Amazon Web Services](https://img.shields.io/badge/Cloud-Amazon_Web_Services-orange?logo=amazon-aws&logoColor=white&style=flat-square) | Leading and widely-used cloud computing platform. |
 | Apache Airflow| ![Apache Airflow](https://img.shields.io/badge/Workflow-Apache_Airflow-blue?logo=apache-airflow&logoColor=white&style=flat-square) | Orchestration and automation of data workflows.  |
 | Microsoft Office 365  | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square) | Comprehensive cloud-based Microsoft applications and services .  |
 
@@ -22,4 +22,4 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 ### Table of Contents
  
 - [Projects](#projects)
-  - [Project 1:](#Data pipeline - SAP to Microsoft SQL server )
+  - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
