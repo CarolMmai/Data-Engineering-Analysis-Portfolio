@@ -23,3 +23,11 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
  
 - [Projects](#projects)
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
+
+
+### Details of Projects
+[### Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
+
+This is the description of my project.
+
+
