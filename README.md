@@ -14,7 +14,7 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 | Amazon Web Services| ![Amazon Web Services](https://img.shields.io/badge/Cloud-Amazon_Web_Services-orange?logo=amazon-aws&logoColor=white&style=flat-square) | Leading and widely-used cloud computing platform. |
 | Apache Airflow| ![Apache Airflow](https://img.shields.io/badge/Workflow-Apache_Airflow-blue?logo=apache-airflow&logoColor=white&style=flat-square) | Orchestration and automation of data workflows.  |
 | Microsoft Office 365  | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square) | Comprehensive cloud-based Microsoft applications and services .  |
-| Batch Scripting  | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=plastic)] | Sequential execution of a series of Microsoft Windows commands .  |
+| Batch Scripting  | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=plastic) | Sequential execution of a series of Microsoft Windows commands .  |
 
 
 ### Table of Contents
@@ -30,4 +30,7 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 This is the description of my project.
 
 
+### Lets see if the gif works
+
+![Power BI Navigation GIF](Late_product_delivery_Power_BI_report.gif)
 
