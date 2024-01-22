@@ -2,7 +2,6 @@
 ---
 Explore my GitHub portfolio showcasing a collection of data engineering and analysis projects. From ETL pipelines to data visualization, these projects demonstrate my proficiency in transforming raw data into actionable insights.
 
-<hr style="border: 2px solid gray;">
 
 ### Tech Stack
 ---
@@ -20,7 +19,6 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 | Microsoft Office 365  | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square) | Comprehensive cloud-based Microsoft applications and services .  |
 | Batch Scripting  | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=plastic)] | Sequential execution of a series of Microsoft Windows commands .  |
 
-<hr style="border: 2px solid gray;">
 
 ### Table of Contents
 --- 
@@ -29,7 +27,6 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
 
 
-<hr style="border: 2px solid gray;">
 
 
 ### Details of Projects
