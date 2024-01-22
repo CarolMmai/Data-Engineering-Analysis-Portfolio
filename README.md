@@ -32,6 +32,9 @@ This is the description of my project.
 
 ### Lets see if the gif works
 
-<img src="https://github.com/CarolMmai/Data-Engineering-Analysis-Portfolio/blob/main/Late_product_delivery_Power_BI_report.gif" width="600" height="400">
+<p align="center">
+  <img src="https://github.com/CarolMmai/Data-Engineering-Analysis-Portfolio/raw/main/Late_product_delivery_Power_BI_report.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
+</p>
+
 
 
