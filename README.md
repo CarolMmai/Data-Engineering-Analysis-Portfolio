@@ -1,11 +1,8 @@
 # Data Engineering Analysis Portfolio
-<hr>
 Explore my GitHub portfolio showcasing a collection of data engineering and analysis projects. From ETL pipelines to data visualization, these projects demonstrate my proficiency in transforming raw data into actionable insights.
 
 
 ### Tech Stack
-<hr>
-
 | Technology | Icon | Description |
 |------------|------|-------------|
 | Python     | ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square) | Main programming language for data projects. |
@@ -21,8 +18,6 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 
 
 ### Table of Contents
-<hr> 
-
 - [Projects](#projects)
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
 
@@ -30,10 +25,9 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 
 
 ### Details of Projects
-<hr>
 [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
 
 This is the description of my project.
 
-<hr>
+
 
