@@ -1,8 +1,12 @@
 # Data Engineering Analysis Portfolio
+---
 Explore my GitHub portfolio showcasing a collection of data engineering and analysis projects. From ETL pipelines to data visualization, these projects demonstrate my proficiency in transforming raw data into actionable insights.
 
+<hr style="border: 2px solid gray;">
+
 ### Tech Stack
- 
+---
+
 | Technology | Icon | Description |
 |------------|------|-------------|
 | Python     | ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square) | Main programming language for data projects. |
@@ -16,22 +20,23 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 | Microsoft Office 365  | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square) | Comprehensive cloud-based Microsoft applications and services .  |
 | Batch Scripting  | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=plastic)] | Sequential execution of a series of Microsoft Windows commands .  |
 
-
-
-
-
+<hr style="border: 2px solid gray;">
 
 ### Table of Contents
- 
+--- 
+
 - [Projects](#projects)
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
 
 
+<hr style="border: 2px solid gray;">
+
+
 ### Details of Projects
+---
 [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
 
 This is the description of my project.
 
-![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square) |![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-darkblue?logo=microsoft-sql-server&logoColor=white&style=plastic) |![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square) |![VBScript](https://img.shields.io/badge/Scripting-Visual_Basic-blue?logo=visual-studio&logoColor=white&style=flat-square) |
-
+<hr style="border: 2px solid gray;">
 
