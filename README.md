@@ -32,5 +32,6 @@ This is the description of my project.
 
 ### Lets see if the gif works
 
-![Power BI Navigation GIF](Late_product_delivery_Power_BI_report.gif)
+<img src="https://github.com/CarolMmai/Data-Engineering-Analysis-Portfolio/blob/main/Late_product_delivery_Power_BI_report.gif" width="600" height="400">
+
 
