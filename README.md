@@ -44,7 +44,7 @@ This daily data pipeline project collects information from SQL databases and loc
 
 ---
 
-[Project 2: Occupation Health Safety KPI report](https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report)
+[Project 2: Occupational Health Safety KPI report](https://github.com/CarolMmai/Occupational-Health-Safety-KPI-report)
 
 This monthly KPI report tracks Occupational Health & Safety metrics to enforce compliance and enhance safety performance. It highlights deviations from targets as non-compliances and acknowledges and celebrates areas of good performance
 
