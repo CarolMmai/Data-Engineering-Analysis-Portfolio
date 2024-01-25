@@ -26,6 +26,7 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 
 - [Projects](#projects)
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
+  - [Project 2: Occupation Health Safety KPI report](https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report)
 
 
 
@@ -41,5 +42,12 @@ This daily data pipeline project collects information from SQL databases and loc
   <img src="https://github.com/CarolMmai/Data-Engineering-Analysis-Portfolio/raw/main/Late_product_delivery_Power_BI_report.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
 </p>
 
+---
 
+[Project 2: Occupation Health Safety KPI report](https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report)
 
+This monthly KPI report tracks Occupational Health & Safety metrics to enforce compliance and enhance safety performance. It highlights deviations from targets as non-compliances and acknowledges and celebrates areas of good performance
+
+<p align="center">
+  <img src="https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report/blob/main/Occupation-Health-Safety-KPI-report.gif" width="800" height="450" alt="Occupation-Health-Safety-KPI-report.gif">
+</p>
