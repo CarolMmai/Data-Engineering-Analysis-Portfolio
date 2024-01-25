@@ -1,8 +1,12 @@
 # Data Engineering Analysis Portfolio
+---
+
 Explore my GitHub portfolio showcasing a collection of data engineering and analysis projects. From ETL pipelines to data visualization, these projects demonstrate my proficiency in transforming raw data into actionable insights.
 
 
 ### Tech Stack
+---
+
 | Technology | Icon | Description |
 |------------|------|-------------|
 | Python     | ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square) | Main programming language for data projects. |
@@ -18,6 +22,8 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 
 
 ### Table of Contents
+---
+
 - [Projects](#projects)
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
 
@@ -25,12 +31,11 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 
 
 ### Details of Projects
+---
+
 [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
 
-This is the description of my project.
-
-
-### Lets see if the gif works
+This daily data pipeline project collects information from SQL databases and local files to create a Power BI report analyzing transporter delivery data. It identifies delayed deliveries, addresses non-compliance, improves transporter performance, and mitigates customer loss, resulting in increased departmental profits.
 
 <p align="center">
   <img src="https://github.com/CarolMmai/Data-Engineering-Analysis-Portfolio/raw/main/Late_product_delivery_Power_BI_report.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
