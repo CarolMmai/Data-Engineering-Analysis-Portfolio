@@ -27,7 +27,7 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 - [Projects](#projects)
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
   - [Project 2: Occupation Health Safety KPI report](https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report)
-
+  - [Project 3: Capital Expenditure Investments Analysis](https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis)
 
 
 
@@ -44,10 +44,27 @@ This daily data pipeline project collects information from SQL databases and loc
 
 ---
 
-[Project 2: Occupational Health Safety KPI report](https://github.com/CarolMmai/Occupational-Health-Safety-KPI-report)
+[Project 2: Occupational Health Safety KPI report](https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report)
 
 This monthly KPI report tracks Occupational Health & Safety metrics to enforce compliance and enhance safety performance. It highlights deviations from targets as non-compliances and acknowledges and celebrates areas of good performance
 
 <p align="center">
   <img src="https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report/blob/main/Occupation-Health-Safety-KPI-report.gif" width="800" height="450" alt="Occupation-Health-Safety-KPI-report.gif">
 </p>
+
+---
+
+[Project 3: Capital Expenditure Investments Analysis](https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis)
+
+This initiative aims to improve transparency on allocated budgets and real-time spending across organizational departments. Using Power BI and DAX measures, estimated expenditures were calculated, incorporating insights from Financial Control representatives and considering various financial model factors.
+
+<p align="center">
+  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/CAPEX_Investment_report.gif" width="800" height="450" alt="CAPEX_Investment_report">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Network%20Project%20spend%20Power%20BI%20report.gif" width="800" height="450" alt="Network Project spend Power BI report">
+</p>
+
