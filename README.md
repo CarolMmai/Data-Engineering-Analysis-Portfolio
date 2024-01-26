@@ -39,7 +39,7 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 This daily data pipeline project collects information from SQL databases and local files to create a Power BI report analyzing transporter delivery data. It identifies delayed deliveries, addresses non-compliance, improves transporter performance, and mitigates customer loss, resulting in increased departmental profits.
 
 <p align="center">
-  <img src="https://github.com/CarolMmai/Data-Engineering-Analysis-Portfolio/raw/main/Late_product_delivery_Power_BI_report.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
+  <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Power_BI_report_Late_product_delivery.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
 </p>
 
 ---
