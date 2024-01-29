@@ -59,12 +59,12 @@ This monthly KPI report tracks Occupational Health & Safety metrics to enforce c
 This initiative aims to improve transparency on allocated budgets and real-time spending across organizational departments. Using Power BI and DAX measures, estimated expenditures were calculated, incorporating insights from Financial Control representatives and considering various financial model factors.
 
 <p align="center">
-  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/CAPEX_Investment_report.gif" width="800" height="450" alt="CAPEX_Investment_report">
+  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Financial%20Landing%20Report.gif" width="800" height="450" alt="Financial Landing Report">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Network%20Project%20spend%20Power%20BI%20report.gif" width="800" height="450" alt="Network Project spend Power BI report">
+  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Project%20Spend%20Analysis.gif" width="800" height="450" alt="Project Spend Analysis">
 </p>
 
