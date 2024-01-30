@@ -1,7 +1,7 @@
 Data Engineering/Analysis Portfolio
 ---
 
-Explore my GitHub portfolio showcasing a collection of data engineering and analysis projects. From ETL pipelines to data visualization, these projects demonstrate my proficiency in transforming raw data into actionable insights.
+Explore my GitHub portfolio showcasing a collection of data engineering and analysis projects. From ETL pipelines to data visualizations, these projects demonstrate my proficiency in transforming raw data into actionable insights.
 
 
 ### Tech Stack
@@ -46,7 +46,7 @@ This daily data pipeline project collects information from SQL databases and loc
 
 [Project 2: Occupational Health Safety KPI report](https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report)
 
-This monthly KPI report tracks Occupational Health & Safety metrics to enforce compliance and enhance safety performance. It highlights deviations from targets as non-compliances and acknowledges and celebrates areas of good performance
+This monthly KPI report tracks Occupational Health & Safety metrics to enforce compliance and enhance safety performance. It highlights deviations from targets as non-compliances and acknowledges and celebrates areas of good performance.
 
 <p align="center">
   <img src="https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report/blob/main/Occupation-Health-Safety-KPI-report.gif" width="800" height="450" alt="Occupation-Health-Safety-KPI-report.gif">
