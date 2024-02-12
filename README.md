@@ -28,6 +28,7 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
   - [Project 1: Late Product Delivery Analysis](https://github.com/CarolMmai/Late-Product-Deliveries-Analysis)
   - [Project 2: Occupation Health Safety KPI report](https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report)
   - [Project 3: Capital Expenditure Investments Analysis](https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis)
+  - [Project 4: Customer Incident Resolution Report](https://github.com/CarolMmai/Customer-Incident-Resolution-Report)
 
 
 
@@ -67,4 +68,16 @@ This initiative aims to improve transparency on allocated budgets and real-time 
 <p align="center">
   <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Project%20Spend%20Analysis.gif" width="800" height="450" alt="Project Spend Analysis">
 </p>
+
+---
+
+[Project 4: Customer Incident Resolution Report](https://github.com/CarolMmai/Customer-Incident-Resolution-Report)
+
+This Power BI report tracks technical issues and errors on an online store, categorizing incidents for IT or courier attention. It also monitors resolved incidents, ensuring prompt customer inquiry responses for high satisfaction.
+
+
+<p align="center">
+  <img src="https://github.com/CarolMmai/Customer-Incident-Resolution-Report/blob/main/Customer%20Incident%20Resolution%20Report.gif" width="800" height="450" alt="Customer Incident Resolution Report">
+</p>
+
 
