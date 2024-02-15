@@ -18,7 +18,8 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 | Github     | ![Github](https://img.shields.io/badge/Platform-GitHub-black?logo=github&style=flat-square) | Collaborative development and version control. |
 | Batch Scripting  | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=plastic) | Sequential execution of a series of Microsoft Windows commands .  |
 | Amazon Web Services| ![Amazon Web Services](https://img.shields.io/badge/Cloud-Amazon_Web_Services-orange?logo=amazon-aws&logoColor=white&style=flat-square) | Leading and widely-used cloud computing platform. |
-| Apache Airflow| ![Apache Airflow](<img src="https://img.shields.io/badge/Workflow-Apache_Airflow-blue?logo=apache-airflow&logoColor=white&style=flat-square" alt="Apache Airflow" width="50" height="50">) | Orchestration and automation of data workflows.  |
+| Apache Airflow | ![Apache Airflow](https://img.shields.io/badge/Workflow-Apache_Airflow-blue?logo=apache-airflow&logoColor=white&style=flat-square&s=50) | Orchestration and automation of data workflows. |
+
 
 
 
