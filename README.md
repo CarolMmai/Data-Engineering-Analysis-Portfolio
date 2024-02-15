@@ -16,8 +16,8 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 | VBScript| ![VBScript](https://img.shields.io/badge/Scripting-Visual_Basic-blue?logo=visual-studio&logoColor=white&style=flat-square) | Scripting tasks on Windows-based systems. |
 | Microsoft SQL Server| ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-darkblue?logo=microsoft-sql-server&logoColor=white&style=plastic) | Relational database management system used for storing, managing, and retrieving data. |
 | Github     | ![Github](https://img.shields.io/badge/Platform-GitHub-black?logo=github&style=flat-square) | Collaborative development and version control. |
-| Batch Scripting  | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=plastic) | Sequential execution of a series of Microsoft Windows commands .  |
-| Amazon Web Services| ![Amazon Web Services](https://img.shields.io/badge/Cloud-Amazon_Web_Services-orange?logo=amazon-aws&logoColor=white&style=flat-square) | Leading and widely-used cloud computing platform. |
+| Batch Scripting | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=plastic&s=50) | Sequential execution of a series of Microsoft Windows commands. |
+| Amazon Web Services | ![Amazon Web Services](https://img.shields.io/badge/Cloud-Amazon_Web_Services-orange?logo=amazon-aws&logoColor=white&style=flat-square&s=50) | Leading and widely-used cloud computing platform. |
 | Apache Airflow | ![Apache Airflow](https://img.shields.io/badge/Workflow-Apache_Airflow-blue?logo=apache-airflow&logoColor=white&style=flat-square&s=50) | Orchestration and automation of data workflows. |
 
 
