@@ -14,11 +14,12 @@ Explore my GitHub portfolio showcasing a collection of data engineering and anal
 | VBScript | ![VBScript](https://img.shields.io/badge/Scripting-Visual_Basic-blue?logo=visual-studio&logoColor=white&style=flat-square&s=50) | Scripting tasks on Windows-based systems. |
 | Apache Airflow | ![Apache Airflow](https://img.shields.io/badge/Workflow-Apache_Airflow-blue?logo=apache-airflow&logoColor=white&style=flat-square&s=50) | Orchestration and automation of data workflows. |
 | Microsoft SQL Server | ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-darkblue?logo=microsoft-sql-server&logoColor=white&style=plastic&s=50) | Relational database management system used for storing, managing, and retrieving data. |
-| Power BI | ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square&s=50) | Data Model and Analysis with Power BI. |
-| Microsoft Office 365 | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square&s=50) | Comprehensive cloud-based Microsoft applications and services. |
-| GitHub | ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github&style=flat-square&s=50) | Collaborative development and version control. |
-| Batch Scripting | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=flat-square&s=50) | Sequential execution of a series of Microsoft Windows commands. |
 | Amazon Web Services | ![Amazon Web Services](https://img.shields.io/badge/Cloud-Amazon_Web_Services-orange?logo=amazon-aws&logoColor=white&style=flat-square&s=50) | Leading and widely-used cloud computing platform. |
+| Power BI | ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square&s=50) | Data Model and Analysis with Power BI. |
+| GitHub | ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github&style=flat-square&s=50) | Collaborative development and version control. |
+| Microsoft Office 365 | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square&s=50) | Comprehensive cloud-based Microsoft applications and services. |
+| Batch Scripting | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=flat-square&s=50) | Sequential execution of a series of Microsoft Windows commands. |
+
 
 
 
